@@ -1,0 +1,31 @@
+body{
+	font-size: 1em;
+	font-color: #3997D6;
+	margin: 0px;
+	text-align: center;
+	background-color: #E9EDF0;
+}
+
+fieldset{
+	background-color: #d9dadb;
+	border: 1px solid #dedfe0;
+	float: left;
+	min-height: 30%;
+}
+
+#res {
+	text-align: center;
+	float: left;
+	border-radius: 1em;
+	background-color: #d9dadb; 
+}
+
+#total{
+	font-size: 1.5em;
+	color: blue;
+    margin-top: 5px;
+}
+
+h3{
+	 margin: 5px;
+}
